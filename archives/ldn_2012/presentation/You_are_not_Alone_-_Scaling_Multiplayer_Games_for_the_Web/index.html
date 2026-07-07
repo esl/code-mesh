@@ -1,0 +1,303 @@
+
+<!DOCTYPE html>
+
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><!-- Reconstructed from Wayback Machine captures of http://techmeshconf.com:80/techmesh-london-2012/presentation/You%20are%20not%20Alone%20-%20Scaling%20Multiplayer%20Games%20for%20the%20Web (codesync.global migration, 2026-07-07) -->
+<head>
+<title>Presentations -&gt; You are not Alone - Scaling Multiplayer Games for the Web</title>
+<link href="../../assets/dl/TechMesh/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<script src="../../assets/scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../../assets/scripts/menu.js" type="text/javascript"></script>
+
+
+<script src="../../assets/scripts/rotator.js" type="text/javascript"></script>
+<style media="all" type="text/css">
+			@import "/styles/goto-2011/structure.css";
+    </style>
+<style media="print" type="text/css">
+			@import "/styles/goto-2011/print.css";
+    </style>
+<meta content="You are not Alone - Scaling Multiplayer Games for the Web at Tech Mesh 2012" name="twitter:title"/>
+<meta content="http://gotocon.com/dl/photos/speakers/Jasper%20Richar.jpg" name="twitter:image"/>
+<meta content="Trifork Conference system" name="generator"/>
+<meta content="&lt;div style=&quot;text-align: left&quot;&gt;
+&lt;div&gt;
+At Wooga we are creating the next generation of social games. To be truly social, a game needs to offer real interaction between players in different forms.&amp;nbsp;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+&lt;div&gt;
+Taking one of our upcoming games as an example we will present the state synchronization used in client and server, how we do real time communication without websockets and how we are making a backend scalable enough to support millions of users every day. We will also share secrets about our prototypes for first person and real time strategy games.
+&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+&lt;div&gt;
+The Erlang process model with evented IO, asynchronous messaging, links and isolation fits very well to real time multiplayer games. Come to our talk to see how it's used to build a very successful business.
+&lt;/div&gt;
+&lt;div&gt;
+&amp;nbsp;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;b&gt;Talk objectives:&lt;/b&gt;&amp;nbsp;Show why Erlang is ideally suited to build real time multiplayer games.&amp;nbsp;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;b&gt;Target audience:&lt;/b&gt;&amp;nbsp;Any developer with interest in distributed systems, complex state handling, or games in general.
+&lt;/div&gt;
+&lt;div&gt;
+&amp;nbsp;
+&lt;/div&gt;
+&lt;/div&gt;" name="twitter:description"/>
+<meta content="summary" name="twitter:card"/>
+</head>
+<body>
+<div id="frame">
+<div id="maincontainer">
+<header>
+<h1 style="display: none;">Tech Mesh London 2012</h1>
+<div id="header">
+<div id="topbanner"><a href="../../"><img alt="GOTO Logo" src="../../assets/dl/TechMesh/TechMeshTopbanner.png" title="Goto Logo"/></a></div>
+</div>
+<nav>
+<ul id="topmenu">
+<li class="menu-item-1"><a href="../../tracks/">Program</a>
+<ul>
+<li><a href="../../tracks/">Tracks</a></li>
+<li><a href="../../speakers/">Speakers</a></li>
+</ul>
+<li class="menu-item-2"><a href="../../schedule/index.jsp/">Schedule</a>
+<ul>
+<li><a href="../../schedule/my-schedule.jsp/">My schedule</a></li>
+<li><a href="../../schedule/tuesday.jsp/">Tuesday</a></li>
+<li><a href="../../schedule/wednesday.jsp/">Wednesday</a></li>
+<li><a href="../../schedule/thursday.jsp/">Thursday</a></li>
+</ul>
+<li class="menu-item-3"><a href="../../training/">Training</a>
+<li class="menu-item-4"><a href="../../venue/">Location</a>
+<ul>
+<li><a href="../../venue/">Venue</a></li>
+</ul>
+<li class="menu-item-5"><a href="../../sponsors/">Sponsor</a>
+<ul>
+<li><a href="../../sponsors/">Sponsor</a></li>
+<li><a href="../../sponsorcontact/">Become a Sponsor</a></li>
+</ul>
+<li class="menu-item-6 float-left"><a href="https://secure.trifork.com/techmesh-london-2012/registration/">Registration</a>
+<li class="menu-item-7 float-left"><a href="../../behindtechmesh/">About Tech Mesh</a>
+<ul>
+<li><a href="../../programcommittee/">Program Committee</a></li>
+<li><a href="../../behindtechmesh/">About Tech Mesh</a></li>
+</ul>
+<li class="menu-item-8 float-left"><a href="../../contact/">Contact</a>
+<li class="menu-item-empty"></li>
+</li></li></li></li></li></li></li></li></ul>
+</nav>
+</header>
+<section>
+<div class="section narrow-content">
+<div class="text">
+<h2 class="speakerHeader">Presentation: <span class="twitterButton"><a class="twitter-share-button" data-count="none" data-counturl="/techmesh-london-2012/presentation/You are not Alone - Scaling Multiplayer Games for the Web" data-text=" You are not Alone - Scaling Multiplayer Games for the Web at #techmesh" data-url="/techmesh-london-2012/presentation/You+are+not+Alone+-+Scaling+Multiplayer+Games+for+the+Web;jsessionid=TRIFORK138243157366" href="http://twitter.com/share">Tweet</a></span>"You are not Alone - Scaling Multiplayer Games for the Web"</h2>
+<div style="font-size: 10px; line-height: 1.3em">
+                        
+			     Track: 
+                          
+                            
+                            
+                              <a class="textlink" href="https://web.archive.org/web/20140715111024/http://techmeshconf.com:80/techmesh-london-2012/tracks/show_track.jsp?trackOID=717">
+                            
+                          
+                          Gaming &amp; Social Media
+                          </a>
+<span class="eventInfoDivider" style="margin: 0px 1px; color: rgb(51, 153, 255);">/</span>
+                        
+
+                        Time:
+
+                        
+                          
+                            Tuesday 15:35 - 16:25
+                          
+                          
+                        
+                        <span class="eventInfoDivider" style="margin: 0px 1px; color: rgb(51, 153, 255);">/</span>
+			   
+			   Location:
+                        
+                          
+                            
+                              
+                              
+                                Library
+                              
+                            
+                          
+                          
+                        
+                      </div>
+<p>
+<div style="text-align: left">
+<div>
+At Wooga we are creating the next generation of social games. To be truly social, a game needs to offer real interaction between players in different forms. 
+</div>
+<div>
+<br/>
+</div>
+<div>
+Taking one of our upcoming games as an example we will present the state synchronization used in client and server, how we do real time communication without websockets and how we are making a backend scalable enough to support millions of users every day. We will also share secrets about our prototypes for first person and real time strategy games.
+</div>
+<div>
+<br/>
+</div>
+<div>
+The Erlang process model with evented IO, asynchronous messaging, links and isolation fits very well to real time multiplayer games. Come to our talk to see how it's used to build a very successful business.
+</div>
+<div>
+ 
+</div>
+<div>
+<b>Talk objectives:</b> Show why Erlang is ideally suited to build real time multiplayer games. 
+</div>
+<div>
+<br/>
+</div>
+<div>
+<b>Target audience:</b> Any developer with interest in distributed systems, complex state handling, or games in general.
+</div>
+<div>
+ 
+</div>
+</div>
+</p>
+<a href="../../assets/dl/techmesh-london-2012/slides/JesperRichter-Reichhelm_and_KnutNesheim_YouAreNotAloneScalingMultiplayerGamesForTheWeb.pdf" target="_blank">
+              
+              
+                                                                      
+                  Download slides
+                </a>
+</div>
+<h1 class="speakerNameHeader">Jesper Richter-Reichhelm, <span class="twitterButton"><a class="twitter-share-button" data-count="none" data-counturl="http://techmeshconf.com/techmesh-london-2012/speaker/Jesper Richter-Reichhelm" data-text="Jesper Richter-Reichhelm is speaking at #techmesh" data-url="/techmesh-london-2012/presentation/You+are+not+Alone+-+Scaling+Multiplayer+Games+for+the+Web;jsessionid=TRIFORK138243157366" href="http://twitter.com/share">Tweet</a></span><span class="speaker-company upper-class">Head of Engineering at Wooga</span></h1>
+<div>
+<div class="speakerImageColumn">
+<img alt="Jesper Richter-Reichhelm" src="../../assets/dl/photos/speakers/Jasper_Richar.jpg"/>
+<div class="speakerImageFooterText">
+</div>
+</div>
+<div class="speakerContentColumn">
+<h2 class="speakerBio">Biography: <a href="../../speaker/Jesper_Richter-Reichhelm/">Jesper Richter-Reichhelm</a></h2>
+    
+    Jesper is working as Head of Engineering at Wooga where he is responsible for the development of backends, i.e. game servers for their social games. Currently Wooga has 35 million monthly users making it the world's 3rd biggest developer of social games at Facebook.
+His passions are: Playing and working on games, developing highly scalable software that's used by millions, and speaking about both at conferences. Currently he is building a new game server using both of Erlang OTP and Ruby to bring real time user interaction to the domain of social gaming.
+    
+    <div style="clear: both;"></div>
+</div>
+</div>
+<div style="clear: both;"></div>
+<h1 class="speakerNameHeader">Knut Nesheim, <span class="twitterButton"><a class="twitter-share-button" data-count="none" data-counturl="http://techmeshconf.com/techmesh-london-2012/speaker/Knut Nesheim" data-text="'@knutin is speaking at #techmesh" data-url="/techmesh-london-2012/presentation/You+are+not+Alone+-+Scaling+Multiplayer+Games+for+the+Web;jsessionid=TRIFORK138243157366" href="http://twitter.com/share">Tweet</a></span><span class="speaker-company upper-class">Backend developer at Wooga</span></h1>
+<div>
+<div class="speakerImageColumn">
+<img alt="No picture of Knut Nesheim" src="../../assets/dl/2005/aarhus/images/speakers/invisible.gif"/>
+<div class="speakerImageFooterText">
+</div>
+</div>
+<div class="speakerContentColumn">
+<h2 class="speakerBio">Biography: <a href="../../speaker/Knut_Nesheim/">Knut Nesheim</a></h2>
+<div style="text-align: left">
+Knut is using Erlang to make social games at Wooga, the third biggest social games developer on Facebook. He has open sourced some of his work, including a Redis database driver, an efficient statistics library and a webserver. His passions include: computer games, music and making useful technology.
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+</section>
+<aside>
+<div class="section right-column">
+<div id="newslettersignup">
+<h2>Sign up newsletter</h2><br/>
+<form action="/techmesh-london-2012/newsletter/addRemove.m">
+<input name="email" style="margin-bottom:8px" type="text" value=""/><br/>
+<input name="cmd" style="font-size: 8pt;" type="submit" value="Sign Up"/>
+<input name="cmd" style="font-size: 8pt;" type="submit" value="Remove"/>
+</form>
+</div>
+<!--     
+    
+        
+        
+            <h2 class="tweet upper-case">#techmesh TWEETS</h2>
+            <div id="tweetslider">
+              <ul id="aside-tweets-pager">
+                <li><a href="#" class="buttons prev disable">&lt;&lt; previous</a></li>
+                <li class="next"><a href="#" class="buttons next">next &gt;&gt;</a></li>
+              </ul>
+        
+              <div class="viewport">
+                <ul class="overview" id="aside-tweets">
+                  <li>No search results yet.</li>
+                </ul>
+              </div>
+          
+            </div>
+        
+    
+	-->
+</div>
+</aside>
+<footer>
+<div id="main-footer">
+<div id="quick-links">
+<ul>
+<li>WHAT IS Tech Mesh		
+	<ul>
+<li><a href="../../behindtechmesh/">About Tech Mesh</a></li>
+<li><a href="../../contact/">Tech Mesh Organizer</a></li>
+<li><a href="../../programcommittee/">Program Committee</a></li>
+</ul>
+</li>
+<li>REGISTER NOW	
+	<ul>
+<li><a href="https://secure.trifork.com/techmesh-london-2012/registration/">Group Discount (5+)</a></li>
+<li><a href="https://secure.trifork.com/techmesh-london-2012/registration/">Early Bird</a></li>
+</ul>
+</li>
+<li>PROGRAM			
+	<ul>
+<li><a href="../../schedule/index.jsp/">Schedule</a></li>
+<li><a href="../../tracks/">Tracks</a></li>
+<li><a href="../../speakers/">Speakers</a></li>
+</ul>
+</li>
+<li>CONTACT			
+	<ul>
+<li><a href="mailto:wioletta@techmeshconf.com">General</a></li>
+<li><a href="mailto:wioletta@techmeshconf.com">Sales</a></li>
+<li><a href="mailto:frei@techmeshconf.com">Sponsors</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="../../assets/scripts/misc.js" type="text/javascript"></script>
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=8201134;
+var sc_invisible=1;
+var sc_security="27731ce1";
+</script>
+
+<noscript><div class="statcounter"><a href="http://statcounter.com/free-hit-counter/" target="_blank" title="hits counter"><img alt="hits counter" class="statcounter" src="http://c.statcounter.com/8201134/0/27731ce1/1/"/></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<script src="//munchkin.marketo.net/munchkin.js" type="text/javascript">
+</script>
+<script>
+Munchkin.init('096-SLE-656');
+</script>
+</body>
+</html>
