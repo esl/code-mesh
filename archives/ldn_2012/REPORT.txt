@@ -1,0 +1,686 @@
+edition: Tech Mesh London 2012
+source:  https://gotocon.com/techmesh-london-2012  (mode: wayback)
+date:    2026-07-07 21:02
+pages: 150   assets: 300   missing: 4   elapsed: 1161s
+
+SKIPPED out-of-prefix page: //techmesh-london-2012/speaker/Jonas+Bon%C3%A9r
+[index.html] STRIPPED script: inline
+[index.html] STRIPPED script: /scripts/aside-twitter.js
+[index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[behindtechmesh/index.html] STRIPPED script: inline
+[behindtechmesh/index.html] STRIPPED script: /scripts/aside-twitter.js
+[behindtechmesh/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[contact/index.html] STRIPPED script: inline
+[contact/index.html] STRIPPED script: /scripts/aside-twitter.js
+[contact/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/index.html] STRIPPED script: inline
+[presentation/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/_/_/index.html] STRIPPED script: inline
+[presentation/_/_/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/_/_/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/_/_/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/.next/index.html] STRIPPED script: inline
+[presentation/.next/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/.next/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/.next/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/.overview/index.html] STRIPPED script: inline
+[presentation/.overview/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/.overview/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/.overview/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/.pagenum/index.html] STRIPPED script: inline
+[presentation/.pagenum/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/.pagenum/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/.pagenum/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/.pager/index.html] STRIPPED script: inline
+[presentation/.pager/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/.pager/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/.pager/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/.prev/index.html] STRIPPED script: inline
+[presentation/.prev/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/.prev/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/.prev/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/.slideshow-paging/index.html] STRIPPED script: inline
+[presentation/.slideshow-paging/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/.slideshow-paging/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/.slideshow-paging/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/.specialChange/index.html] STRIPPED script: inline
+[presentation/.specialChange/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/.specialChange/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/.specialChange/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/.specialSubmit/index.html] STRIPPED script: inline
+[presentation/.specialSubmit/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/.specialSubmit/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/.specialSubmit/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/.TEST/index.html] STRIPPED script: inline
+[presentation/.TEST/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/.TEST/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/.TEST/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/.viewport/index.html] STRIPPED script: inline
+[presentation/.viewport/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/.viewport/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/.viewport/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/1.4.2/index.html] STRIPPED script: inline
+[presentation/1.4.2/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/1.4.2/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/1.4.2/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/A_Little_Graph_Theory_for_the_Busy_Developer/index.html] STRIPPED script: inline
+[presentation/A_Little_Graph_Theory_for_the_Busy_Developer/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/A_Little_Graph_Theory_for_the_Busy_Developer/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/A_Little_Graph_Theory_for_the_Busy_Developer/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/A_Little_Graph_Theory_for_the_Busy_Developer/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[presentation/A_Little_Graph_Theory_for_the_Busy_Developer/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/An_Akka_kata_for_Green_Belts/index.html] STRIPPED script: inline
+[presentation/An_Akka_kata_for_Green_Belts/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/An_Akka_kata_for_Green_Belts/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/An_Akka_kata_for_Green_Belts/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/An_Akka_kata_for_Green_Belts/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Application_Stacks_for_the_Modern_World/index.html] STRIPPED script: inline
+[presentation/Application_Stacks_for_the_Modern_World/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Application_Stacks_for_the_Modern_World/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Application_Stacks_for_the_Modern_World/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Application_Stacks_for_the_Modern_World/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Beyond_MapReduce/index.html] STRIPPED script: inline
+[presentation/Beyond_MapReduce/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Beyond_MapReduce/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Beyond_MapReduce/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Beyond_MapReduce/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Building_an_Application_Platform__Lessons_from_CloudBees/index.html] STRIPPED script: inline
+[presentation/Building_an_Application_Platform__Lessons_from_CloudBees/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Building_an_Application_Platform__Lessons_from_CloudBees/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Building_an_Application_Platform__Lessons_from_CloudBees/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Building_an_Application_Platform__Lessons_from_CloudBees/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Can_your_Service_survive_a_Cold_Start__Sadly_-_probably_not_/index.html] STRIPPED script: inline
+[presentation/Can_your_Service_survive_a_Cold_Start__Sadly_-_probably_not_/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Can_your_Service_survive_a_Cold_Start__Sadly_-_probably_not_/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Can_your_Service_survive_a_Cold_Start__Sadly_-_probably_not_/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/click.specialSubmit/index.html] STRIPPED script: inline
+[presentation/click.specialSubmit/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/click.specialSubmit/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/click.specialSubmit/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/ClojureScript__The_Essence_of_Alchemy/index.html] STRIPPED script: inline
+[presentation/ClojureScript__The_Essence_of_Alchemy/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/ClojureScript__The_Essence_of_Alchemy/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/ClojureScript__The_Essence_of_Alchemy/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/ClojureScript__The_Essence_of_Alchemy/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[presentation/ClojureScript__The_Essence_of_Alchemy/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Conference_Party/index.html] STRIPPED script: inline
+[presentation/Conference_Party/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Conference_Party/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Conference_Party/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Conversational_Big_Data/index.html] STRIPPED script: inline
+[presentation/Conversational_Big_Data/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Conversational_Big_Data/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Conversational_Big_Data/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Conversational_Big_Data/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Developing_and_Integrating_WebSharper_Applications_with_Facebook/index.html] STRIPPED script: inline
+[presentation/Developing_and_Integrating_WebSharper_Applications_with_Facebook/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Developing_and_Integrating_WebSharper_Applications_with_Facebook/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Developing_and_Integrating_WebSharper_Applications_with_Facebook/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Developing_and_Integrating_WebSharper_Applications_with_Facebook/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Eden__An_F/index.html] STRIPPED script: inline
+[presentation/Eden__An_F/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Eden__An_F/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Eden__An_F/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Eden__An_F/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Erlang_-_A_Language_for_programming_Reliable_Systems/index.html] STRIPPED script: inline
+[presentation/Erlang_-_A_Language_for_programming_Reliable_Systems/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Erlang_-_A_Language_for_programming_Reliable_Systems/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Erlang_-_A_Language_for_programming_Reliable_Systems/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Erlang_-_A_Language_for_programming_Reliable_Systems/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Erlang_and_OpenFlow__A_Match_Made_in_the_Cloud_/index.html] STRIPPED script: inline
+[presentation/Erlang_and_OpenFlow__A_Match_Made_in_the_Cloud_/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Erlang_and_OpenFlow__A_Match_Made_in_the_Cloud_/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Erlang_and_OpenFlow__A_Match_Made_in_the_Cloud_/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Erlang_and_OpenFlow__A_Match_Made_in_the_Cloud_/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Eventual_Consistency_ftw./index.html] STRIPPED script: inline
+[presentation/Eventual_Consistency_ftw./index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Eventual_Consistency_ftw./index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Eventual_Consistency_ftw./index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Eventual_Consistency_ftw./index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Faith__Evolution__and_Programming_Languages__from_Haskell_to_Java/index.html] STRIPPED script: inline
+[presentation/Faith__Evolution__and_Programming_Languages__from_Haskell_to_Java/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Faith__Evolution__and_Programming_Languages__from_Haskell_to_Java/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Faith__Evolution__and_Programming_Languages__from_Haskell_to_Java/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Faith__Evolution__and_Programming_Languages__from_Haskell_to_Java/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[presentation/Faith__Evolution__and_Programming_Languages__from_Haskell_to_Java/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Farewell_Drinks/index.html] STRIPPED script: inline
+[presentation/Farewell_Drinks/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Farewell_Drinks/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Farewell_Drinks/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/From_Java_to_Erlang_Thinking/index.html] STRIPPED script: inline
+[presentation/From_Java_to_Erlang_Thinking/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/From_Java_to_Erlang_Thinking/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/From_Java_to_Erlang_Thinking/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/From_Java_to_Erlang_Thinking/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Gaming__How_to_deal_with_too_much_Success/index.html] STRIPPED script: inline
+[presentation/Gaming__How_to_deal_with_too_much_Success/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Gaming__How_to_deal_with_too_much_Success/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Gaming__How_to_deal_with_too_much_Success/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Gaming__How_to_deal_with_too_much_Success/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Go_Do__solving_Real_Problems_correctly_with_Go/index.html] STRIPPED script: inline
+[presentation/Go_Do__solving_Real_Problems_correctly_with_Go/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Go_Do__solving_Real_Problems_correctly_with_Go/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Go_Do__solving_Real_Problems_correctly_with_Go/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Go_Do__solving_Real_Problems_correctly_with_Go/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[presentation/Go_Do__solving_Real_Problems_correctly_with_Go/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/High_Performance_Financial_Service_Integration/index.html] STRIPPED script: inline
+[presentation/High_Performance_Financial_Service_Integration/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/High_Performance_Financial_Service_Integration/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/High_Performance_Financial_Service_Integration/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/High_Performance_Financial_Service_Integration/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/How_F/index.html] STRIPPED script: inline
+[presentation/How_F/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/How_F/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/How_F/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/How_F/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/How_F/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/presentation/How%20F/(http:/tomasp.net/blog)
+[presentation/I_am_for_the_Web_-_Massive_IM_Scalability_using_WebSockets/index.html] STRIPPED script: inline
+[presentation/I_am_for_the_Web_-_Massive_IM_Scalability_using_WebSockets/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/I_am_for_the_Web_-_Massive_IM_Scalability_using_WebSockets/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/I_am_for_the_Web_-_Massive_IM_Scalability_using_WebSockets/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/I_am_for_the_Web_-_Massive_IM_Scalability_using_WebSockets/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Implementing_Riak_in_Erlang__Benefits_and_Challenges/index.html] STRIPPED script: inline
+[presentation/Implementing_Riak_in_Erlang__Benefits_and_Challenges/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Implementing_Riak_in_Erlang__Benefits_and_Challenges/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Implementing_Riak_in_Erlang__Benefits_and_Challenges/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Implementing_Riak__Benefits_and_Challenges/index.html] STRIPPED script: inline
+[presentation/Implementing_Riak__Benefits_and_Challenges/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Implementing_Riak__Benefits_and_Challenges/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Implementing_Riak__Benefits_and_Challenges/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Implementing_Riak__Benefits_and_Challenges/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Integration_of_Distributed_Real-time_Data_Computing_in_a_Web_App_using_Futures_and_Iteratees/index.html] STRIPPED script: inline
+[presentation/Integration_of_Distributed_Real-time_Data_Computing_in_a_Web_App_using_Futures_and_Iteratees/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Integration_of_Distributed_Real-time_Data_Computing_in_a_Web_App_using_Futures_and_Iteratees/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Integration_of_Distributed_Real-time_Data_Computing_in_a_Web_App_using_Futures_and_Iteratees/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Integration_of_Distributed_Real-time_Data_Computing_in_a_Web_App_using_Futures_and_Iteratees/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Keynote__183_Years_of_Programming/index.html] STRIPPED script: inline
+[presentation/Keynote__183_Years_of_Programming/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Keynote__183_Years_of_Programming/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Keynote__183_Years_of_Programming/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Keynote__Haskell__Practical_as_well_as_Cool/index.html] STRIPPED script: inline
+[presentation/Keynote__Haskell__Practical_as_well_as_Cool/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Keynote__Haskell__Practical_as_well_as_Cool/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Keynote__Haskell__Practical_as_well_as_Cool/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Keynote__The_Language_of_the_System/index.html] STRIPPED script: inline
+[presentation/Keynote__The_Language_of_the_System/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Keynote__The_Language_of_the_System/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Keynote__The_Language_of_the_System/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/keypress.specialSubmit/index.html] STRIPPED script: inline
+[presentation/keypress.specialSubmit/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/keypress.specialSubmit/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/keypress.specialSubmit/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Living_in_a_Polyglot_World__Ruby_on_the_client__Erlang_on_the_server/index.html] STRIPPED script: inline
+[presentation/Living_in_a_Polyglot_World__Ruby_on_the_client__Erlang_on_the_server/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Living_in_a_Polyglot_World__Ruby_on_the_client__Erlang_on_the_server/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Living_in_a_Polyglot_World__Ruby_on_the_client__Erlang_on_the_server/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Making_EDSLs_fly/index.html] STRIPPED script: inline
+[presentation/Making_EDSLs_fly/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Making_EDSLs_fly/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Making_EDSLs_fly/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Making_EDSLs_fly/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Making_most_of_Scala/index.html] STRIPPED script: inline
+[presentation/Making_most_of_Scala/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Making_most_of_Scala/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Making_most_of_Scala/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Making_most_of_Scala/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Mary_Poppins_Meets_the_Matrix/index.html] STRIPPED script: inline
+[presentation/Mary_Poppins_Meets_the_Matrix/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Mary_Poppins_Meets_the_Matrix/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Mary_Poppins_Meets_the_Matrix/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Mary_Poppins_Meets_the_Matrix/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Microsoft.XMLHTTP/index.html] STRIPPED script: inline
+[presentation/Microsoft.XMLHTTP/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Microsoft.XMLHTTP/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Microsoft.XMLHTTP/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Multi-core_with_less_Pain__Deterministic_Parallel_Programming_with_Haskell/index.html] STRIPPED script: inline
+[presentation/Multi-core_with_less_Pain__Deterministic_Parallel_Programming_with_Haskell/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Multi-core_with_less_Pain__Deterministic_Parallel_Programming_with_Haskell/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Multi-core_with_less_Pain__Deterministic_Parallel_Programming_with_Haskell/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Multi-core_with_less_Pain__Deterministic_Parallel_Programming_with_Haskell/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Next_Top_Data_Model/index.html] STRIPPED script: inline
+[presentation/Next_Top_Data_Model/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Next_Top_Data_Model/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Next_Top_Data_Model/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Next_Top_Data_Model/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/OCaml_in_the_Cloud__How_to_build_an_Open_Source_Virtualisation_Platform/index.html] STRIPPED script: inline
+[presentation/OCaml_in_the_Cloud__How_to_build_an_Open_Source_Virtualisation_Platform/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/OCaml_in_the_Cloud__How_to_build_an_Open_Source_Virtualisation_Platform/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/OCaml_in_the_Cloud__How_to_build_an_Open_Source_Virtualisation_Platform/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/OCaml_in_the_Cloud__How_to_build_an_Open_Source_Virtualisation_Platform/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/OTP_System_Principles/index.html] STRIPPED script: inline
+[presentation/OTP_System_Principles/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/OTP_System_Principles/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/OTP_System_Principles/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/OTP_System_Principles/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/OTP__the_middleware_for_concurrent_distributed_scalable_architectures/index.html] STRIPPED script: inline
+[presentation/OTP__the_middleware_for_concurrent_distributed_scalable_architectures/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/OTP__the_middleware_for_concurrent_distributed_scalable_architectures/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/OTP__the_middleware_for_concurrent_distributed_scalable_architectures/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Panel_Debate__Runtime_Evolution__the_Future_of_VMs/index.html] STRIPPED script: inline
+[presentation/Panel_Debate__Runtime_Evolution__the_Future_of_VMs/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Panel_Debate__Runtime_Evolution__the_Future_of_VMs/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Panel_Debate__Runtime_Evolution__the_Future_of_VMs/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Panel_Debate__What_the_hell_is_Big_Data/index.html] STRIPPED script: inline
+[presentation/Panel_Debate__What_the_hell_is_Big_Data/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Panel_Debate__What_the_hell_is_Big_Data/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Panel_Debate__What_the_hell_is_Big_Data/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Panel_Debate__What_the_hell_is_Big_Data/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Post_Functional/index.html] STRIPPED script: inline
+[presentation/Post_Functional/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Post_Functional/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Post_Functional/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Post_Functional/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Pragmatism__Puritanism_and_Functional_Programming/index.html] STRIPPED script: inline
+[presentation/Pragmatism__Puritanism_and_Functional_Programming/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Pragmatism__Puritanism_and_Functional_Programming/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Pragmatism__Puritanism_and_Functional_Programming/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Pragmatism__Puritanism_and_Functional_Programming/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Real-world_scaling_with_Scala___Akka/index.html] STRIPPED script: inline
+[presentation/Real-world_scaling_with_Scala___Akka/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Real-world_scaling_with_Scala___Akka/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Real-world_scaling_with_Scala___Akka/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Real-world_scaling_with_Scala___Akka/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Sharing_Data__hiding_Complexity__with_Clojure_and_RDF_/index.html] STRIPPED script: inline
+[presentation/Sharing_Data__hiding_Complexity__with_Clojure_and_RDF_/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Sharing_Data__hiding_Complexity__with_Clojure_and_RDF_/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Sharing_Data__hiding_Complexity__with_Clojure_and_RDF_/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Sharing_Data__hiding_Complexity__with_Clojure_and_RDF_/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Social_Architecture_101/index.html] STRIPPED script: inline
+[presentation/Social_Architecture_101/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Social_Architecture_101/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Social_Architecture_101/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Social_Architecture_101/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Software_Architecture_using_ZeroMQ/index.html] STRIPPED script: inline
+[presentation/Software_Architecture_using_ZeroMQ/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Software_Architecture_using_ZeroMQ/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Software_Architecture_using_ZeroMQ/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Software_Architecture_using_ZeroMQ/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/The_Actor_Model_applied_to_the_Raspberry_Pi_and_the_Embedded_Domain/index.html] STRIPPED script: inline
+[presentation/The_Actor_Model_applied_to_the_Raspberry_Pi_and_the_Embedded_Domain/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/The_Actor_Model_applied_to_the_Raspberry_Pi_and_the_Embedded_Domain/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/The_Actor_Model_applied_to_the_Raspberry_Pi_and_the_Embedded_Domain/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/The_Actor_Model_applied_to_the_Raspberry_Pi_and_the_Embedded_Domain/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/The_Database_as_a_Value/index.html] STRIPPED script: inline
+[presentation/The_Database_as_a_Value/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/The_Database_as_a_Value/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/The_Database_as_a_Value/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/The_Database_as_a_Value/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/The_Disruptor__Now__Next_and_the_Future/index.html] STRIPPED script: inline
+[presentation/The_Disruptor__Now__Next_and_the_Future/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/The_Disruptor__Now__Next_and_the_Future/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/The_Disruptor__Now__Next_and_the_Future/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/The_Disruptor__Now__Next_and_the_Future/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/The_New_Face_of_Cassandra/index.html] STRIPPED script: inline
+[presentation/The_New_Face_of_Cassandra/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/The_New_Face_of_Cassandra/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/The_New_Face_of_Cassandra/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/The_New_Face_of_Cassandra/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/The_Properties_of_Riak/index.html] STRIPPED script: inline
+[presentation/The_Properties_of_Riak/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/The_Properties_of_Riak/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/The_Properties_of_Riak/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/The_Properties_of_Riak/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/The_Seductions_of_Scala/index.html] STRIPPED script: inline
+[presentation/The_Seductions_of_Scala/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/The_Seductions_of_Scala/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/The_Seductions_of_Scala/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/The_Seductions_of_Scala/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[presentation/The_Seductions_of_Scala/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Up_up_and_Out__Scaling_Software_with_Akka/index.html] STRIPPED script: inline
+[presentation/Up_up_and_Out__Scaling_Software_with_Akka/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Up_up_and_Out__Scaling_Software_with_Akka/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Up_up_and_Out__Scaling_Software_with_Akka/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/Up_up_and_Out__Scaling_Software_with_Akka/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Up_up_and_Out__Scaling_Software_with_Akka/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/speaker/Jonas+Bon%C3%A9r
+[presentation/vert.x_-_Polyglot_Asynchronous_Application_Development_for_the_Modern_Web/index.html] STRIPPED script: inline
+[presentation/vert.x_-_Polyglot_Asynchronous_Application_Development_for_the_Modern_Web/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/vert.x_-_Polyglot_Asynchronous_Application_Development_for_the_Modern_Web/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/vert.x_-_Polyglot_Asynchronous_Application_Development_for_the_Modern_Web/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/vert.x_-_Polyglot_Asynchronous_Application_Development_for_the_Modern_Web/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/Welcome_to_Tech_Mesh_/index.html] STRIPPED script: inline
+[presentation/Welcome_to_Tech_Mesh_/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/Welcome_to_Tech_Mesh_/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/Welcome_to_Tech_Mesh_/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/You_are_not_alone_-_multiplayer_games_in_Erlang/index.html] STRIPPED script: inline
+[presentation/You_are_not_alone_-_multiplayer_games_in_Erlang/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/You_are_not_alone_-_multiplayer_games_in_Erlang/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/You_are_not_alone_-_multiplayer_games_in_Erlang/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentation/You_are_not_Alone_-_Scaling_Multiplayer_Games_for_the_Web/index.html] STRIPPED script: inline
+[presentation/You_are_not_Alone_-_Scaling_Multiplayer_Games_for_the_Web/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentation/You_are_not_Alone_-_Scaling_Multiplayer_Games_for_the_Web/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[presentation/You_are_not_Alone_-_Scaling_Multiplayer_Games_for_the_Web/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[presentation/You_are_not_Alone_-_Scaling_Multiplayer_Games_for_the_Web/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[presentations/show_presentation.jsp/index.html] STRIPPED script: inline
+[presentations/show_presentation.jsp/index.html] STRIPPED script: /scripts/aside-twitter.js
+[presentations/show_presentation.jsp/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[programcommittee/index.html] STRIPPED script: inline
+[programcommittee/index.html] STRIPPED script: /scripts/aside-twitter.js
+[programcommittee/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[schedule/index.jsp/index.html] STRIPPED script: inline
+[schedule/index.jsp/index.html] STRIPPED script: /scripts/aside-twitter.js
+[schedule/index.jsp/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[schedule/index.jsp/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[schedule/my-schedule.jsp/index.html] STRIPPED script: inline
+[schedule/my-schedule.jsp/index.html] STRIPPED script: /scripts/aside-twitter.js
+[schedule/my-schedule.jsp/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[schedule/my-schedule.jsp/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[schedule/thursday.jsp/index.html] STRIPPED script: inline
+[schedule/thursday.jsp/index.html] STRIPPED script: /scripts/aside-twitter.js
+[schedule/thursday.jsp/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[schedule/thursday.jsp/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[schedule/tuesday.jsp/index.html] STRIPPED script: inline
+[schedule/tuesday.jsp/index.html] STRIPPED script: /scripts/aside-twitter.js
+[schedule/tuesday.jsp/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[schedule/tuesday.jsp/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[schedule/wednesday.jsp/index.html] STRIPPED script: inline
+[schedule/wednesday.jsp/index.html] STRIPPED script: /scripts/aside-twitter.js
+[schedule/wednesday.jsp/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[schedule/wednesday.jsp/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[schedule/wednesday.jsp/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/presentation/Can your Service survive a Cold Start
+[schedule/wednesday.jsp/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/speaker/Jonas+Bon%C3%A9r
+[speaker/Adam_Granicz/index.html] STRIPPED script: inline
+[speaker/Adam_Granicz/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Adam_Granicz/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Adam_Granicz/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Adam_Granicz/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Ben_Moseley/index.html] STRIPPED script: inline
+[speaker/Ben_Moseley/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Ben_Moseley/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Ben_Moseley/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Ben_Moseley/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Bruce_Tate/index.html] STRIPPED script: inline
+[speaker/Bruce_Tate/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Bruce_Tate/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Bruce_Tate/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Bruce_Tate/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Christopher_Brown/index.html] STRIPPED script: inline
+[speaker/Christopher_Brown/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Christopher_Brown/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Christopher_Brown/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Christopher_Brown/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Christopher_Brown/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Darach_Ennis/index.html] STRIPPED script: inline
+[speaker/Darach_Ennis/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Darach_Ennis/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Darach_Ennis/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Darach_Ennis/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Darach_Ennis/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Dave_Scott/index.html] STRIPPED script: inline
+[speaker/Dave_Scott/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Dave_Scott/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Dave_Scott/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Dave_Scott/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Dave_Scott/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/David_Craelius/index.html] STRIPPED script: inline
+[speaker/David_Craelius/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/David_Craelius/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/David_Craelius/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/David_Craelius/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/David_Nolen/index.html] STRIPPED script: inline
+[speaker/David_Nolen/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/David_Nolen/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/David_Nolen/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/David_Nolen/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Dean_Wampler/index.html] STRIPPED script: inline
+[speaker/Dean_Wampler/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Dean_Wampler/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Dean_Wampler/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Dean_Wampler/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Duncan_Coutts/index.html] STRIPPED script: inline
+[speaker/Duncan_Coutts/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Duncan_Coutts/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Duncan_Coutts/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Duncan_Coutts/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Duncan_Coutts/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Enrique_Paz_Perez/index.html] STRIPPED script: inline
+[speaker/Enrique_Paz_Perez/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Enrique_Paz_Perez/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Enrique_Paz_Perez/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Enrique_Paz_Perez/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Enrique_Paz_Perez/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Francesco_Cesarini/index.html] STRIPPED script: inline
+[speaker/Francesco_Cesarini/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Francesco_Cesarini/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Francesco_Cesarini/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Francesco_Cesarini/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Garrett_Smith/index.html] STRIPPED script: inline
+[speaker/Garrett_Smith/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Garrett_Smith/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Garrett_Smith/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Garrett_Smith/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Henrik_Engstr_m/index.html] STRIPPED script: inline
+[speaker/Henrik_Engstr_m/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Henrik_Engstr_m/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Henrik_Engstr_m/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Henrik_Engstr_m/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Henrik_Engstr_m/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Ian_Plosker/index.html] STRIPPED script: inline
+[speaker/Ian_Plosker/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Ian_Plosker/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Ian_Plosker/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Ian_Plosker/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Ian_Plosker/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/James_Henderson/index.html] STRIPPED script: inline
+[speaker/James_Henderson/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/James_Henderson/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/James_Henderson/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/James_Henderson/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/James_Henderson/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Jan_Machacek/index.html] STRIPPED script: inline
+[speaker/Jan_Machacek/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Jan_Machacek/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Jan_Machacek/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Jan_Machacek/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Jesper_Richter-Reichhelm/index.html] STRIPPED script: inline
+[speaker/Jesper_Richter-Reichhelm/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Jesper_Richter-Reichhelm/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Jesper_Richter-Reichhelm/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Jesper_Richter-Reichhelm/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Jim_Webber/index.html] STRIPPED script: inline
+[speaker/Jim_Webber/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Jim_Webber/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Jim_Webber/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Jim_Webber/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Jim_Webber/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Joe_Armstrong/index.html] STRIPPED script: inline
+[speaker/Joe_Armstrong/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Joe_Armstrong/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Joe_Armstrong/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Joe_Armstrong/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/John_Hughes/index.html] STRIPPED script: inline
+[speaker/John_Hughes/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/John_Hughes/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/John_Hughes/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/John_Hughes/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/John_T_Davies/index.html] STRIPPED script: inline
+[speaker/John_T_Davies/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/John_T_Davies/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/John_T_Davies/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/John_T_Davies/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/John_T_Davies/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/speaker/Jonas+Bon%C3%A9r
+[speaker/John_T_Davies/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Kevin_Wright/index.html] STRIPPED script: inline
+[speaker/Kevin_Wright/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Kevin_Wright/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Kevin_Wright/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Kevin_Wright/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/speaker/Jonas+Bon%C3%A9r
+[speaker/Kevin_Wright/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Kevin_Wright/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Knut_Nesheim/index.html] STRIPPED script: inline
+[speaker/Knut_Nesheim/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Knut_Nesheim/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Knut_Nesheim/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Knut_Nesheim/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Kresten_Krab_Thorup/index.html] STRIPPED script: inline
+[speaker/Kresten_Krab_Thorup/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Kresten_Krab_Thorup/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Kresten_Krab_Thorup/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Kresten_Krab_Thorup/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Kresten_Krab_Thorup/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Lennart_Augustsson/index.html] STRIPPED script: inline
+[speaker/Lennart_Augustsson/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Lennart_Augustsson/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Lennart_Augustsson/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Lennart_Augustsson/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Luca_Bolognese/index.html] STRIPPED script: inline
+[speaker/Luca_Bolognese/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Luca_Bolognese/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Luca_Bolognese/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/speaker/Jonas+Bon%C3%A9r
+[speaker/Mahesh_Paolini-Subramanya/index.html] STRIPPED script: inline
+[speaker/Mahesh_Paolini-Subramanya/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Mahesh_Paolini-Subramanya/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Mahesh_Paolini-Subramanya/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Mahesh_Paolini-Subramanya/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Mahesh_Paolini-Subramanya/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/presentation/Can your Service survive a Cold Start
+[speaker/Mahesh_Paolini-Subramanya/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Malcolm_Sparks/index.html] STRIPPED script: inline
+[speaker/Malcolm_Sparks/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Malcolm_Sparks/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Malcolm_Sparks/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Malcolm_Sparks/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Matt_Heitzenroder/index.html] STRIPPED script: inline
+[speaker/Matt_Heitzenroder/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Matt_Heitzenroder/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Matt_Heitzenroder/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Matt_Heitzenroder/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Michael_Barker/index.html] STRIPPED script: inline
+[speaker/Michael_Barker/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Michael_Barker/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Michael_Barker/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Michael_Barker/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Michael_Barker/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Micha_l_Figui_re/index.html] STRIPPED script: inline
+[speaker/Micha_l_Figui_re/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Micha_l_Figui_re/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Micha_l_Figui_re/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Micha_l_Figui_re/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Micha_l_Figui_re/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Micha___laski/index.html] STRIPPED script: inline
+[speaker/Micha___laski/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Micha___laski/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Micha___laski/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Micha___laski/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Micha___laski/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Mike_Williams/index.html] STRIPPED script: inline
+[speaker/Mike_Williams/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Mike_Williams/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Mike_Williams/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Mike_Williams/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Omer_Kilic/index.html] STRIPPED script: inline
+[speaker/Omer_Kilic/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Omer_Kilic/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Omer_Kilic/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Omer_Kilic/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Pavlo_Baron/index.html] STRIPPED script: inline
+[speaker/Pavlo_Baron/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Pavlo_Baron/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Pavlo_Baron/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Pavlo_Baron/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/presentation/100% Big Data. 0% Hadoop. 0% Java.
+[speaker/Pavlo_Baron/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Peter_Bourgon/index.html] STRIPPED script: inline
+[speaker/Peter_Bourgon/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Peter_Bourgon/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Peter_Bourgon/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Peter_Bourgon/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Peter_Bourgon/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Philip_Wadler/index.html] STRIPPED script: inline
+[speaker/Philip_Wadler/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Philip_Wadler/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Philip_Wadler/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Philip_Wadler/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Philip_Wadler/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Pieter_Hintjens/index.html] STRIPPED script: inline
+[speaker/Pieter_Hintjens/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Pieter_Hintjens/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Pieter_Hintjens/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Pieter_Hintjens/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Rich_Hickey/index.html] STRIPPED script: inline
+[speaker/Rich_Hickey/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Rich_Hickey/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Rich_Hickey/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Rich_Hickey/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Rob_Harrop/index.html] STRIPPED script: inline
+[speaker/Rob_Harrop/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Rob_Harrop/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Rob_Harrop/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Rob_Harrop/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Rob_Harrop/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Robert_Virding/index.html] STRIPPED script: inline
+[speaker/Robert_Virding/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Robert_Virding/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Robert_Virding/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Robert_Virding/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Robert_Virding/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Sadek_Drobi/index.html] STRIPPED script: inline
+[speaker/Sadek_Drobi/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Sadek_Drobi/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Sadek_Drobi/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Sadek_Drobi/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Sadek_Drobi/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Simon_Marlow/index.html] STRIPPED script: inline
+[speaker/Simon_Marlow/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Simon_Marlow/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Simon_Marlow/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Simon_Marlow/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Simon_Peyton_Jones/index.html] STRIPPED script: inline
+[speaker/Simon_Peyton_Jones/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Simon_Peyton_Jones/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Simon_Peyton_Jones/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Steve_Vinoski/index.html] STRIPPED script: inline
+[speaker/Steve_Vinoski/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Steve_Vinoski/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Steve_Vinoski/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Steve_Vinoski/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Stuart_Bailey/index.html] STRIPPED script: inline
+[speaker/Stuart_Bailey/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Stuart_Bailey/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Stuart_Bailey/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Stuart_Bailey/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Stuart_Williams/index.html] STRIPPED script: inline
+[speaker/Stuart_Williams/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Stuart_Williams/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Stuart_Williams/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Stuart_Williams/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Stuart_Williams/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Tobias_Gedell/index.html] STRIPPED script: inline
+[speaker/Tomas_Petricek/index.html] STRIPPED script: inline
+[speaker/Tomas_Petricek/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Tomas_Petricek/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Tomas_Petricek/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Tomas_Petricek/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speaker/Tomas_Petricek/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/speaker/Tomas%20Petricek/(http:/tomasp.net/blog)
+[speaker/Tomas_Petricek/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[speaker/Tomas_Petricek/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/speaker/Tomas+Petricek/(http:/tomasp.net/blog)
+[speaker/Werner_Schuster/index.html] STRIPPED script: inline
+[speaker/Werner_Schuster/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speaker/Werner_Schuster/index.html] STRIPPED script: http://platform.twitter.com/widgets.js
+[speaker/Werner_Schuster/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speaker/Werner_Schuster/index.html] STRIPPED iframe: //www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2ftechmesh&width=200&heigh
+[speakers/index.html] STRIPPED script: inline
+[speakers/index.html] STRIPPED script: /scripts/aside-twitter.js
+[speakers/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[speakers/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/speaker/Jonas+Bon%C3%A9r
+[sponsorcontact/index.html] STRIPPED script: inline
+[sponsorcontact/index.html] STRIPPED script: /scripts/aside-twitter.js
+[sponsorcontact/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[sponsors/index.html] STRIPPED script: inline
+[sponsors/index.html] STRIPPED script: /scripts/aside-twitter.js
+[sponsors/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[tracks/index.html] STRIPPED script: inline
+[tracks/index.html] STRIPPED script: /scripts/aside-twitter.js
+[tracks/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[tracks/index.html] MISSING subpage (-> wayback): /techmesh-london-2012/tracks/show_track.jsp
+[training/index.html] STRIPPED script: inline
+[training/index.html] STRIPPED script: /scripts/aside-twitter.js
+[training/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+[venue/index.html] STRIPPED script: inline
+[venue/index.html] STRIPPED script: /scripts/aside-twitter.js
+[venue/index.html] STRIPPED script: http://www.statcounter.com/counter/counter.js
+MISSING asset http://techmeshconf.com/dl/photos/speakers/Rich Hickey_tumbnail.jpg: URL can't contain control characters. '/web/20140715111024id_/http://techmeshconf.com/dl/photos/speakers/Rich Hickey_tumbnail.jpg' (found at least ' ')
+MISSING asset http://techmeshconf.com:80/dl/photos/speakers/Rich Hickey_tumbnail.jpg: URL can't contain control characters. '/web/20140715111024id_/http://techmeshconf.com:80/dl/photos/speakers/Rich Hickey_tumbnail.jpg' (found at least ' ')
+MISSING asset (css) http://techmeshconf.com/dl/photos/speakers/Rich Hickey_tumbnail.jpg: URL can't contain control characters. '/web/20140715111024id_/http://techmeshconf.com/dl/photos/speakers/Rich Hickey_tumbnail.jpg' (found at least ' ')
+MISSING asset (css) http://techmeshconf.com:80/dl/photos/speakers/Rich Hickey_tumbnail.jpg: URL can't contain control characters. '/web/20140715111024id_/http://techmeshconf.com:80/dl/photos/speakers/Rich Hickey_tumbnail.jpg' (found at least ' ')
+REWROTE 2 never-archived asset ref(s) to Wayback URLs
